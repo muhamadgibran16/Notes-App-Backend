@@ -1,5 +1,3 @@
-// http://notesapp-v1.dicodingacademy.com/
-
 const Hapi = require('@hapi/hapi');
 const routes = require('./routes');
 
